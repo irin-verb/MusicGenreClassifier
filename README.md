@@ -6,7 +6,7 @@
 >
 > Research work at a university. PyQT application for determining the musical genre of a recording of one of 4 neural network models + modules for training them
 
-**Предмет (Subject)** :  Научно-исследовательская работа / Research work
+**Предмет / Subject** :  Научно-исследовательская работа / Research work
 
 **Курс / Course** : 3ий курс / 3rd course
 
